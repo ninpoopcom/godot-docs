@@ -168,7 +168,7 @@ Pointing toward a target
 ------------------------
 
 In this scenario, you have a tank that wishes to point its turret at a robot.
-Subtracting the tank's position from the robot's position gives the vector
+Subtracting the robot's position from the tank's position gives the vector
 pointing from the tank to the robot.
 
 .. image:: img/vector_subtract2.png
